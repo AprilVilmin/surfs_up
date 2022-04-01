@@ -8,9 +8,15 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 
 - There were 1,700 temperatures collected for the month of June.
 
+ ![June Temp Counts.png](https://github.com/AprilVilmin/surfs_up/blob/main/June%20Temp%20Counts.png)  
+
 - There are 1,517 temperatures collected for the month of December.
 
+ ![December Temp Counts.png](https://github.com/AprilVilmin/surfs_up/blob/main/December%20Temp%20Counts.png)  
+
 - The average temperature for the month of December on Oahu is 71 degrees.
+
+ ![December Temp Average.png](https://github.com/AprilVilmin/surfs_up/blob/main/December%20Temp%20Average.png) 
 
 ## Summary: 
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
