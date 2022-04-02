@@ -15,13 +15,13 @@ You were able to prove W. Avy a summary of weather data for both June and Deceme
  ![December Temps.png](https://github.com/AprilVilmin/surfs_up/blob/main/December%20Temps.png)  
 
 
-- There were 1,700 temperatures collected for the month of June on the island of Oahu. While there were 1,517 temperatures collected for the month of December on the same island.
+- There were 1,700 temperatures collected for the month of June on the island of Oahu. While there were 1,517 temperatures collected for the month of December on the same island. Details can be found in the above screenshots.
 
  
-- The max temperature for the month of June on the island Oahu is 85 degrees. The max temperature for the month of Decmber on Oahu is 83 degrees.
+- The max temperature for the month of June on the island Oahu is 85 degrees. The max temperature for the month of Decmber on Oahu is 83 degrees. Details can be foud in the above screensbots.
 
-
-- The average temperature for the month of June on the island of Oahu is 75 degrees. The average temperature for the month of December on Oahu is 71 degrees.
+ 
+- The average temperature for the month of June on the island of Oahu is 75 degrees. The average temperature for the month of December on Oahu is 71 degrees. Details can be found in the above screenshots
 
 
 ## Summary: 
